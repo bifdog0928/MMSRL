@@ -31,5 +31,14 @@ All datasets used in this paper are publicly available and can be downloaded fro
 
 # Tutorials
 
-* Perform spatial domain identification on spatial transcriptomic data using MMSRL.
-* []{}
+* Perform spatial domain identification on spatial transcriptomic data using MMSRL.\
+**[Tutorial-Spatial-Domain-Recognition.ipynb](./Tutorial-Spatial-Domain-Recognition.ipynb)**
+
+* Perform pseudotime analysis using MMSRL.\
+**[Tutorial-Chicken-heart-dpt-pseudotime.ipynb](./Tutorial-Chicken-heart-dpt-pseudotime.ipynb)**
+
+* Perform gene enhancement using MMSRL.\
+**[Tutorial-enchance-gene.ipynb](./Tutorial-enchance-gene.ipynb)**
+
+
+  
