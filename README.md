@@ -1,4 +1,6 @@
 # MMSRL
+[![DOI](https://zenodo.org/badge/1124411185.svg)](https://doi.org/10.5281/zenodo.18080085)
+
 Constructing effective representations of spatial resolved transcriptomics (SRT) data, by appropriately characterizing the coherence in gene expression and histology with the spatial information of each sequencing spot, plays an important role in understanding the organization and function of complex tissues. Although much progress has been made, existing SRT representation methods typically establish local associative relationships for each spot only with those located in its surrounding spatial areas, thus failing to capture longrange correlations between distant regions. In addition, the absence of supervision signals on which cluster (with similar biological functions, pathological states or cell types) each spot should belong to also poses a great challenge in deriving an effective representation of SRT data. To this end, we propose a novel Multi-Modal SRT Representation Learning (MMSRL) method.
 ![MMSRL Overview](https://github.com/bifdog0928/MMSRL/blob/main/Pic/MMSRL.png?raw=true)
 
